@@ -1,8 +1,7 @@
 # Axelerant--webpages-
 Axelerant -webpages by NITESH (nit1998esh@gmail.com)
 
->> First install XAMPP from your browser. By the following link for Windows/MAC/Linux: https://www.apachefriends.org/download.html
-
+>> First install XAMPP from your browser. By the following link for Windows/MAC/Linux: https://www.apachefriends.org/index.html
 >> Install it at C:\xampp and Run the 'XAMPP' SOFTWARE.
 
 >> XAMPP will provide you local hosting environment at your PC with DATABASE.
