@@ -18,7 +18,7 @@ Axelerant -webpages by NITESH (nit1998esh@gmail.com)
 
 >>You will be directed to localhost on your browser
 
->>Create a New database with name 'dataset1' and under which create a dataset named as same 'dataset1' and then create
+>>Create a New database with name 'dataset1' and under which create a dataset named as same 'dataset1' and then press create button
 
 >>Now click on SQL icon on top at your phpMyAdmin
 
