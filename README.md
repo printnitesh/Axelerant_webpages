@@ -1,5 +1,5 @@
-# Axelerant--webpages-
-Axelerant -webpages by NITESH (nit1998esh@gmail.com)
+# Survey&Result--webpages-
+Survey&Result -webpages by NITESH (nit1998esh@gmail.com)
 
 DEMO_VIDEO LINK:- https://drive.google.com/file/d/1MDYIU8RcA4aKVFn6IJwg2TNR5_AS7MQE/view?usp=sharing
 
